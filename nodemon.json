@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "STIXK",
+        "DB_PASSWORD": "094141",
+        "JWT_SECRET": "supersecrete"
+    }
+}
